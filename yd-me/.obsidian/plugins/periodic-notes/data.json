@@ -3,8 +3,8 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "folder": "/",
-    "template": "Daily Template",
+    "folder": "10 Daily Notes",
+    "template": "Templates/Daily Template.md",
     "enabled": true
   },
   "weekly": {
@@ -23,12 +23,12 @@
     "format": "",
     "template": "",
     "folder": "",
-    "enabled": true
+    "enabled": false
   },
   "yearly": {
     "format": "",
     "template": "",
     "folder": "",
-    "enabled": true
+    "enabled": false
   }
 }
