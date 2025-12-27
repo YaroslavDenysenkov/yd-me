@@ -4,6 +4,7 @@
 - Editing Toolbar
 - Git
 - Kanban
+- Meta Bind
 - Periodic Notes
 - Tasks
 - Tracker

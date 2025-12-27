@@ -97,12 +97,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Template.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Template"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "b236dd6878a1cbe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "72cba732c46d7946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "66b814bcf90a7e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
+          },
+          {
+            "id": "e3aad45eab63c12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
+            }
+          },
+          {
+            "id": "a7caf4c0f384a348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 5"
+            }
+          },
+          {
+            "id": "3f3ce9773f439983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Journal/10 Daily/2025-12-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-27"
             }
           },
           {
@@ -120,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -305,30 +389,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1a7f117f9b505352",
+  "active": "3f3ce9773f439983",
   "lastOpenFiles": [
+    "Obsidian Community Plugins.md",
+    "10 Journal/10 Daily/2025-12-27.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Templates/10 Daily Note Template.md",
+    "German A1 Preparation.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Templates/50 Yearly Note Template.md",
+    "Templates/40 Quarterly Note Template.md",
+    "Templates/30 Monthly Note Template.md",
+    "Templates/20 Weekly Note Template.md",
+    "2025-12-26.md",
     "10 Journal/50 Yearly",
     "10 Journal/40 Quarterly",
     "10 Journal/30 Monthly",
     "10 Journal/20 Weekly",
     "10 Journal/10 Daily",
-    "Untitled.md",
-    "Untitled 3.md",
     "Obsidian Best Practices.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "Templates",
     "99 Attachments",
     "90 Archives",
     "40 Knowledge Base",
     "2025-12.md",
     "30 Areas",
-    "2025-12-26.md",
-    "20 Active Projects",
-    "German A1 Preparation.md",
     "2025-12-27.md",
-    "Obsidian Community Plugins.md",
-    "Templates/Daily Template.md",
     "Untitled Kanban.md",
     "2025-W52.md",
     "Obsidian Community Plugins 1.md",

@@ -3,32 +3,32 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "folder": "10 Daily Notes",
-    "template": "Templates/Daily Template.md",
+    "folder": "10 Journal/10 Daily",
+    "template": "Templates/10 Daily Note Template.md",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "Templates/20 Weekly Note Template.md",
+    "folder": "10 Journal/20 Weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "Templates/30 Monthly Note Template.md",
+    "folder": "10 Journal/30 Monthly",
     "enabled": true
   },
   "quarterly": {
     "format": "",
-    "template": "",
-    "folder": "",
-    "enabled": false
+    "template": "Templates/40 Quarterly Note Template.md",
+    "folder": "10 Journal/40 Quarterly",
+    "enabled": true
   },
   "yearly": {
     "format": "",
-    "template": "",
-    "folder": "",
-    "enabled": false
+    "template": "Templates/50 Yearly Note Template.md",
+    "folder": "10 Journal/50 Yearly",
+    "enabled": true
   }
 }
