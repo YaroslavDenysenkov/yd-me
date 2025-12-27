@@ -4,5 +4,7 @@
   "auto-card-link",
   "periodic-notes",
   "editing-toolbar",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-tracker",
+  "obsidian-kanban"
 ]

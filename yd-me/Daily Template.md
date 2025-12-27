@@ -1,12 +1,12 @@
 ---
-date: 2025-12-27
+date: {{date:YYYY-MM-DD}}
 tags: [daily]
 wordsLearned: 0
 exercise: 0
 mood: ""
 ---
 
-# 📅 Daily Log: 2025-12-27
+# 📅 Daily Log: {{date:YYYY-MM-DD}}
 
 ## 📊 Tracker Input
 *Update your numbers here for the graphs.*
